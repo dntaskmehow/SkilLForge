@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/skillforge/__init__.py
+src/skillforge/cli.py
+src/skillforge/compiler.py
+src/skillforge.egg-info/PKG-INFO
+src/skillforge.egg-info/SOURCES.txt
+src/skillforge.egg-info/dependency_links.txt
+src/skillforge.egg-info/entry_points.txt
+src/skillforge.egg-info/requires.txt
+src/skillforge.egg-info/top_level.txt
